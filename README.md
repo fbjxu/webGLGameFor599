@@ -1,2 +1,0 @@
-# webGLGameFor599
-webglgame
